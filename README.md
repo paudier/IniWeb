@@ -1,2 +1,2 @@
 # IniWeb
-Mise a niveau developpement Web de base
+Mise à niveau développement Web de base
